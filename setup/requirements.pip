@@ -1,0 +1,9 @@
+flickr_api
+numpy
+scipy
+matplotlib
+scikit-learn
+simplekml
+jinja2
+mahotas
+futures

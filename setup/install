@@ -1,0 +1,1 @@
+apt-get install python-pip && cat requirements.apt | xargs apt-get install -y && pip install -r requirements.pip

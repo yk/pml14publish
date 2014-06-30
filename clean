@@ -1,0 +1,1 @@
+rm -rf *.pyc reports core/*.pyc shells/*.pyc

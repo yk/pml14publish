@@ -1,0 +1,8 @@
+cmake
+python-pip
+libpython-dev
+libboost-all-dev
+libopencv-dev
+python-opencv
+ipython
+gfortran
