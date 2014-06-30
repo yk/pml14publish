@@ -1,0 +1,9 @@
+**/*.pyc
+**/*.swp
+reports
+geocoverage_test
+report/*.aux
+report/*.pdf
+report/*.out
+report/*.fls
+report/*.log
